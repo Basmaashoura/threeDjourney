@@ -1,1 +1,1 @@
-# threeDjourney
+Learning Journey - Daily Log
