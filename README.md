@@ -1,7 +1,7 @@
 Learning Journey - Daily Log
 
 #### September 
-###### Current Source: Blender guru - Donut tutorial
+###### Current Source: Blender guru - Donut tutorial 2026
 
 | Day | Learning Outcomes                                                     |
 | --- | --------------------------------------------------------------------- |
